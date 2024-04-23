@@ -1,0 +1,29 @@
+{
+    "noOfStops": 2,
+    "liftColour": 6,
+    "headUnit": 1,
+    "carpet": 15,
+    "delivery": 2,
+    "accessories": [
+      {
+        "id": 1,
+        "count": 1
+      }
+    ],
+    "floors": [
+      {
+        "floor": 0,
+        "hinge": 13,
+        "doorAccess": 9
+      }, {
+        "floor": 1,
+        "hinge": 13,
+        "doorAccess": 9
+      },{
+        "floor": 2,
+        "hinge": 13,
+        "doorAccess": 9
+      }
+  
+    ]
+  }

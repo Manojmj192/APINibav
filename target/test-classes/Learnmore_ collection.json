@@ -1,0 +1,127 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string"
+      },
+      "description": {
+        "type": "null"
+      },
+      "contents": {
+        "type": "array",
+        "items": [
+          {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "integer"
+              },
+              "title": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "textColor": {
+                "type": "string"
+              },
+              "imageUrl": {
+                "type": "null"
+              },
+              "videoUrl": {
+                "type": "string"
+              },
+              "otherDetails": {
+                "type": "null"
+              }
+            },
+            "required": [
+              "id",
+              "title",
+              "description",
+              "textColor",
+              "imageUrl",
+              "videoUrl",
+              "otherDetails"
+            ]
+          },
+          {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "integer"
+              },
+              "title": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "textColor": {
+                "type": "string"
+              },
+              "imageUrl": {
+                "type": "null"
+              },
+              "videoUrl": {
+                "type": "string"
+              },
+              "otherDetails": {
+                "type": "null"
+              }
+            },
+            "required": [
+              "id",
+              "title",
+              "description",
+              "textColor",
+              "imageUrl",
+              "videoUrl",
+              "otherDetails"
+            ]
+          },
+          {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "integer"
+              },
+              "title": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "textColor": {
+                "type": "string"
+              },
+              "imageUrl": {
+                "type": "null"
+              },
+              "videoUrl": {
+                "type": "string"
+              },
+              "otherDetails": {
+                "type": "null"
+              }
+            },
+            "required": [
+              "id",
+              "title",
+              "description",
+              "textColor",
+              "imageUrl",
+              "videoUrl",
+              "otherDetails"
+            ]
+          }
+        ]
+      }
+    },
+    "required": [
+      "title",
+      "description",
+      "contents"
+    ]
+  }

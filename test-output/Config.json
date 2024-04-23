@@ -1,0 +1,1470 @@
+{
+    "configurations": [
+        {
+            "productName": "Series III",
+            "variation": {
+                "label": "Classic",
+                "value": "series-iii-classic"
+            },
+            "specifications": {
+                "noOfPersons": 2,
+                "noOfStops": 3,
+                "payload": 210,
+                "externalSize": 981,
+                "ros": "72%"
+            },
+            "priceFrom": "990000",
+            "advancedPrice": "250000",
+            "sections": {
+                "noOfStops": {
+                    "title": "No of Stops",
+                    "description": null,
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 3,
+                            "titleKey": "two-stops",
+                            "label": "Floor 0 & 1(Two Stops)",
+                            "value": "2",
+                            "src": null,
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 4,
+                            "titleKey": "three-stops",
+                            "label": "Floor 0,1 & 2(Three Stops)",
+                            "value": "3",
+                            "src": null,
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 5,
+                            "titleKey": "four-stops",
+                            "label": "Floor 0,1,2 & 3(Four Stops)",
+                            "value": "4",
+                            "src": null,
+                            "price": "0",
+                            "colors": []
+                        }
+                    ],
+                    "learnMore": [
+                        {
+                            "title": "Floor 0 & 1 (Two Stops)",
+                            "subTitle": null,
+                            "description": null,
+                            "src": "images/configure/learn-more/noOfStops/2-stops"
+                        },
+                        {
+                            "title": "Floor 0, 1 & 2 (Three Stops)",
+                            "subTitle": null,
+                            "description": null,
+                            "src": "images/configure/learn-more/noOfStops/3-stops"
+                        },
+                        {
+                            "title": "Floor 0, 1, 2 & 3 (Four Stops)",
+                            "subTitle": null,
+                            "description": null,
+                            "src": "images/configure/learn-more/noOfStops/4-stops"
+                        }
+                    ]
+                },
+                "color": {
+                    "title": "Lift Colour",
+                    "description": null,
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 6,
+                            "titleKey": "standard",
+                            "label": "Standard Colours",
+                            "value": null,
+                            "src": null,
+                            "price": "0",
+                            "colors": [
+                                {
+                                    "id": 1,
+                                    "label": "Pure White",
+                                    "titleKey": "pureWhite"
+                                },
+                                {
+                                    "id": 2,
+                                    "label": "Cream White",
+                                    "titleKey": "creamWhite"
+                                },
+                                {
+                                    "id": 3,
+                                    "label": "Ashen Grey",
+                                    "titleKey": "ashenGrey"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "titleKey": "premium",
+                            "label": "Premium Colours",
+                            "value": null,
+                            "src": null,
+                            "price": "0",
+                            "colors": [
+                                {
+                                    "id": 4,
+                                    "label": "Cobalt Blue",
+                                    "titleKey": "cobaltBlue"
+                                },
+                                {
+                                    "id": 5,
+                                    "label": "Sienna Brown",
+                                    "titleKey": "siennaBrown"
+                                },
+                                {
+                                    "id": 6,
+                                    "label": "Midnight Black",
+                                    "titleKey": "midnightBlack"
+                                },
+                                {
+                                    "id": 7,
+                                    "label": "Viridian Green",
+                                    "titleKey": "viridianGreen"
+                                },
+                                {
+                                    "id": 10,
+                                    "label": "Scarlet Red",
+                                    "titleKey": "scarletRed"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "titleKey": "metallic",
+                            "label": "Metallic Colours",
+                            "value": null,
+                            "src": null,
+                            "price": "0",
+                            "colors": [
+                                {
+                                    "id": 8,
+                                    "label": "Pearl Gold",
+                                    "titleKey": "pearlGold"
+                                },
+                                {
+                                    "id": 9,
+                                    "label": "Silver Grey",
+                                    "titleKey": "silverGrey"
+                                }
+                            ]
+                        }
+                    ],
+                    "learnMore": []
+                },
+                "assurancePackage": {
+                    "title": "Assurance Package",
+                    "description": "Carbon Seal \\n Lifetime Warranty on Seal and Motor \\n 5 Layers of Safety",
+                    "type": "info",
+                    "options": [],
+                    "learnMore": [
+                        {
+                            "title": "Assurance Package",
+                            "subTitle": "Carbon Seal",
+                            "description": "<p><span class=\"ql-size-caption\">The carbon seal is a critical component that ensures smooth and efficient operation of your lift, providing a barrier against dust, debris, and moisture to protect the internal mechanisms. </span></p><p><br></p><p><span class=\"ql-size-caption\"><span class=\"ql-cursor\">﻿</span>With our lifetime warranty, you can have complete confidence in the durability and performance. Whether it's preserving the integrity of your lift's mechanisms or enhancing the longevity of your investment, our commitment to quality and customer satisfaction is unwavering.</span></p>",
+                            "src": "images/configure/learn-more/assurancePackage/carbon-seal"
+                        },
+                        {
+                            "title": "Assurance Package",
+                            "subTitle": "Lifetime Warranty on Seal and Motor",
+                            "description": "<p><span class=\"ql-size-caption\">We prioritize reliability and longevity in our home lifts. That's why we're excited to offer a lifetime warranty for the motors in our home lifts. These motors are the heart of your lift, providing the power and efficiency needed for smooth and reliable operation day after day. </span></p><p><br></p><p><span class=\"ql-size-caption\"><span class=\"ql-cursor\">﻿</span>With our lifetime warranty, you can rest assured knowing that your home lift's motors are covered for the duration of its lifetime.</span></p>",
+                            "src": "images/configure/learn-more/assurancePackage/lifetime-warranty"
+                        },
+                        {
+                            "title": "Assurance Package",
+                            "subTitle": "5 Layers of Safety",
+                            "description": "<p><strong>DID YOU KNOW THAT OUR ELEVATOR’S TECHNOLOGY IS THE SAFEST ON THE PLANET?</strong></p><p><strong class=\"ql-size-small\">1. Automatic Descent:</strong></p><p><span class=\"ql-size-caption\">  - Experience peace of mind knowing that in the event of a power outage, our elevator automatically descends to the ground floor. You can simply open the door manually and exit without any technical assistance. </span></p><p><strong class=\"ql-size-small\">2. Emergency Landing Button:</strong></p><p><span class=\"ql-size-caption\">  - Rest assured, our elevator is equipped with an 'Emergency Landing Button' inside and outside the cabin. In case the elevator gets stuck between floors, simply press this button to safely land the elevator on the ground floor. </span></p><p><strong class=\"ql-size-small\">3. Sure Stop Safety Feature:</strong></p><p><span class=\"ql-size-caption\">  - Safety is our top priority. If there's a pneumatic pressure failure or if the lift exceeds the designated speed, our 'Sure Stop' safety feature kicks in. It locks the elevator's car within 2 inches, ensuring your safety at all times. </span></p><p><strong class=\"ql-size-small\">4. Conventional Lock:</strong></p><p><span class=\"ql-size-caption\">  - For added peace of mind, our elevator comes with a conventional lock on the door. In case of an emergency, you can manually unlock the elevator using this feature. Experience unmatched safety and peace of mind with our elevator technology – designed to keep you safe in every situation.</span></p>",
+                            "src": "images/configure/learn-more/assurancePackage/5-layer"
+                        }
+                    ]
+                },
+                "doorAccess": {
+                    "title": "Door Access",
+                    "description": null,
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 9,
+                            "titleKey": "side-a",
+                            "label": "Side A",
+                            "value": null,
+                            "src": "images/configure/options/doorAccess/sides/left/side-a",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 10,
+                            "titleKey": "side-b",
+                            "label": "Side B",
+                            "value": null,
+                            "src": "images/configure/options/doorAccess/sides/left/side-b",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 11,
+                            "titleKey": "side-c",
+                            "label": "Side C",
+                            "value": null,
+                            "src": "images/configure/options/doorAccess/sides/left/side-c",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 12,
+                            "titleKey": "side-d",
+                            "label": "Side D",
+                            "value": null,
+                            "src": "images/configure/options/doorAccess/sides/left/side-d",
+                            "price": "0",
+                            "colors": []
+                        }
+                    ],
+                    "learnMore": [
+                        {
+                            "title": "Door Access - Side A (South",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">On the ground floor, Side A (South) offers a customizable door access option for your lift. This means that upon installation, you have the flexibility to configure the lift's door to open towards Side A (South), facilitating convenient entry and exit from the lift on the ground floor. Whether you prefer the door to open towards the left, right, front, or rear, Side A (South) allows you to tailor the door access according to your specific requirements and layout of the lift lobby.</span></p>",
+                            "src": "images/configure/options/doorAccess/sides/left/side-a"
+                        },
+                        {
+                            "title": "Door Access - Side B (West)",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Transitioning to the first floor, Side B (West) provides another customizable door access option for your lift. During installation, you can configure the lift's door to open towards Side B (West), ensuring seamless entry and exit from the lift on the first floor. Whether you need the door to open towards a different direction than on the ground floor or align with specific pathways or rooms, Side B (West) offers the flexibility to accommodate your preferences and layout of the first-floor area.</span></p>",
+                            "src": "images/configure/options/doorAccess/sides/left/side-b"
+                        },
+                        {
+                            "title": "Door Access - Side C (North)",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">As you reach the second floor, Side C (North) introduces yet another customizable door access option for your lift. With Side C (North), you have the freedom to configure the lift's door to open in a direction that best suits your needs on the second floor. Whether it's aligning with different pathways, rooms, or specific areas of activity, Side C (North) ensures that entry and exit from the lift on the second floor are tailored to your convenience and requirements, enhancing the overall usability of the lift.</span></p>",
+                            "src": "images/configure/options/doorAccess/sides/left/side-c"
+                        },
+                        {
+                            "title": "Door Access - Side D (East)",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Finally, on the third floor, Side D (East) completes the array of customizable door access options for your lift. With Side D (East), you can configure the lift's door to open towards the desired direction on the third floor, providing seamless entry and exit as per your preferences. Whether you require the door to open towards specific rooms, corridors, or areas of interest on the third floor, Side D (East) ensures that the lift's door access is perfectly aligned with your convenience and requirements, offering a personalized lift experience tailored to each floor's layout</span></p>",
+                            "src": "images/configure/options/doorAccess/sides/left/side-d"
+                        }
+                    ]
+                },
+                "hinge": {
+                    "title": "Hinge",
+                    "description": null,
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 13,
+                            "titleKey": "left",
+                            "label": "Left Hinge",
+                            "value": null,
+                            "src": "images/configure/options/hinge/left",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 14,
+                            "titleKey": "right",
+                            "label": "Right Hinge",
+                            "value": null,
+                            "src": "images/configure/options/hinge/right",
+                            "price": "0",
+                            "colors": []
+                        }
+                    ],
+                    "learnMore": [
+                        {
+                            "title": "Right Hinge",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Complementing its counterpart, Our Nibav Lifts also includes a high-quality right hinge. Strategically positioned, it ensures even weight distribution and adapts to various architectural layouts. With advanced safety features and concealed hinges, it guarantees a safe, reliable, and aesthetically pleasing journey for passengers, enhancing the overall ambiance of your lift space.</span></p>",
+                            "src": "images/configure/learn-more/hinge/right"
+                        },
+                        {
+                            "title": "Left Hinge",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Nibav Lifts features a high-quality left hinge, ensuring stability and smooth movement between floors. With concealed hinges for a seamless finish, your lift experience is upgraded to a new level of sophistication and elegance.</span></p>",
+                            "src": "images/configure/learn-more/hinge/left"
+                        }
+                    ]
+                },
+                "luxuryPackage": {
+                    "title": "Luxury Package ",
+                    "description": "Zero Visible Screws \\n Intermediate Uni cylinder \\n Cabin Matched to Shaft Colour",
+                    "type": "info",
+                    "options": [],
+                    "learnMore": [
+                        {
+                            "title": "Luxury Package ",
+                            "subTitle": "Zero Visible Screws",
+                            "description": "<p><span class=\"ql-size-caption\">Immerse yourself in seamless elegance with our Zero Visible Screws feature. Every aspect of your lift is meticulously crafted to perfection, ensuring a sleek and flawless appearance without any unsightly screws disrupting the aesthetic harmony.</span></p>",
+                            "src": "images/configure/learn-more/luxuryPackage/zero-visible"
+                        },
+                        {
+                            "title": "Luxury Package ",
+                            "subTitle": "Intermediate Uni cylinder",
+                            "description": "<p><span class=\"ql-size-caption\">Experience smooth and silent operation with our Intermediate Uni Cylinder. Engineered for optimal performance and efficiency, this advanced cylinder design enhances the overall ride quality, providing you with a luxurious lift experience that exceeds expectations.</span></p>",
+                            "src": "images/configure/learn-more/luxuryPackage/intermediate-cylinder"
+                        },
+                        {
+                            "title": "Luxury Package ",
+                            "subTitle": "Cabin Matched to Shaft Colour",
+                            "description": "<p><span class=\"ql-size-caption\">Elevate the visual appeal of your lift with our Cabin Matched to Shaft Colour feature. Seamlessly blend the cabin's design with the shaft's color scheme, creating a cohesive and harmonious look that enhances the overall ambiance of your home.</span></p>",
+                            "src": "images/configure/learn-more/luxuryPackage/cabin"
+                        }
+                    ]
+                },
+                "designerPackage": {
+                    "title": "Designer Package",
+                    "description": "Curved Shaft with No Sharp Edges \\n Largest Panoramic Cabin \\n Flushed Cylinder Joints",
+                    "type": "info",
+                    "options": [],
+                    "learnMore": [
+                        {
+                            "title": "Designer Package",
+                            "subTitle": "Curved Shaft with No Sharp Edges",
+                            "description": "<p><span class=\"ql-size-caption\">With our Curved Shaft with No Sharp Edges, every journey is not just stylish but also safe. Experience peace of mind knowing that your loved ones can move seamlessly throughout your home without worrying about sharp edges. </span></p><p><br></p><p><span class=\"ql-size-caption\">Indulge in the beauty of a curved design that not only enhances the aesthetics of your space but also reflects your discerning taste and commitment to safety. Elevate your home and your lifestyle with our Designer Package, where luxury meets peace of mind.</span></p>",
+                            "src": "images/configure/learn-more/designerPackage/curved-shaft"
+                        },
+                        {
+                            "title": "Designer Package",
+                            "subTitle": "Largest Panoramic Cabin",
+                            "description": "<p><span class=\"ql-size-caption\">Immerse yourself in a world of expansive vistas with our Largest Panoramic Cabin feature. Crafted with your comfort and safety in mind, our elevators offer breathtaking 360-degree views that transcend claustrophobic feelings. Enjoy a clear view of your home, fostering a sense of security and connectivity for everyone onboard. Additionally, the transparency of our elevators enhances their visual appeal, guaranteeing an exceptional and unforgettable experience for all passengers.</span></p>",
+                            "src": "images/configure/learn-more/designerPackage/largest-panoramic"
+                        },
+                        {
+                            "title": "Designer Package",
+                            "subTitle": "Flushed Cylinder Joints",
+                            "description": "<p><span class=\"ql-size-caption\">Flushed Cylinder Joints are a sophisticated component integrated into our vacuum home elevator. Unlike traditional joints that protrude, these joints are meticulously engineered to seamlessly integrate into the elevator structure, providing a sleek and streamlined appearance offering both style and functionality for those seeking a premium home lift solution.</span></p>",
+                            "src": "images/configure/learn-more/designerPackage/flushed-cylinder"
+                        }
+                    ]
+                },
+                "headUnit": {
+                    "title": "Head Unit",
+                    "description": null,
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 1,
+                            "titleKey": "builtIn",
+                            "label": "Built In",
+                            "value": null,
+                            "src": "images/configure/options/headUnit/built-in",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 2,
+                            "titleKey": "detached",
+                            "label": "Detached",
+                            "value": null,
+                            "src": "images/configure/options/headUnit/detached",
+                            "price": "0",
+                            "colors": []
+                        }
+                    ],
+                    "learnMore": [
+                        {
+                            "title": "Built In",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Our lifts boast a head unit atop the shaft, ensuring ample headroom of 2749mm for a spacious and comfortable ride. </span></p><p><br></p><p><span class=\"ql-size-caption\">Built with ingenuity, our lifts integrate the motor atop the elevator itself. This sleek design not only saves precious space but also eliminates the need for a separate machine room. With 2749mm headroom and operating at just 62 decibels, our lifts provide a tranquil experience akin to the hush of a library.</span></p>",
+                            "src": "images/configure/learn-more/headUnit/built-in"
+                        },
+                        {
+                            "title": "Detached",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Nibav Home Lifts redefine comfort and convenience with our innovative detached headroom design. By positioning the motor away from the shaft, we offer a perfect fit for homes with limited overhead spaces, providing ample headroom of 2449mm (60 decibels) for a tranquil ride akin to the hush of a library. Explore the Nibav difference today. </span></p>",
+                            "src": "images/configure/learn-more/headUnit/detached"
+                        }
+                    ]
+                },
+                "aesthetics": {
+                    "title": "Aesthetics",
+                    "description": "Aluminium Frameless Landing Door \\n Crome Door Handle \\n Hidden Connector Holes  \\n Concealed Door Hinges \\n Painted Metal Ceiling \\n Concealed Sensors \\n Concealed Lock Cover ",
+                    "type": "info",
+                    "options": [],
+                    "learnMore": [
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Aluminium Frameless Landing Door",
+                            "description": "<p><span class=\"ql-size-caption\">Elevate the visual appeal of your space with our Aluminium Frameless Landing Door, a hallmark of modern elegance and sophistication. The frameless design not only enhances aesthetics but also maximizes natural light flow, creating an open and inviting atmosphere within your home or building. Made from high-quality aluminium, these doors are not only visually stunning but also durable and resistant to corrosion, ensuring long-lasting beauty and functionality.</span></p>",
+                            "src": "images/configure/learn-more/aesthetics/aluminium-frameless"
+                        },
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Crome Door Handle",
+                            "description": "<p><span class=\"ql-size-caption\">Our door handle not only enhances the aesthetic appeal of your elevator but also offers a luxurious feel with every touch. The chrome finish brings a contemporary elegance to any interior design, complementing a wide range of decor styles. Designed for both durability and style, our Chrome Door Handle is built to withstand everyday use while maintaining its stunning appearance for years to come.</span></p>",
+                            "src": "images/configure/learn-more/aesthetics/crome-door"
+                        },
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Hidden Connector Holes ",
+                            "description": "<p><span class=\"ql-size-caption\">Elevate the elegance of your elevator design with our innovative Hidden Connector Holes feature. By seamlessly integrating connectors within the elevator structure, we eliminate unsightly protrusions and create a clean, streamlined appearance. These discreetly placed connector holes ensure a polished finish while maintaining the functionality of your elevator. Experience a refined aesthetic with Hidden Connector Holes, where form meets function seamlessly. </span></p>",
+                            "src": "images/configure/learn-more/aesthetics/hidden-connector-holes"
+                        },
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Concealed Door Hinges",
+                            "description": "<p><span class=\"ql-size-caption\">Ingeniously integrated within the door structure, these hinges not only enhance the sleek appearance of your elevator but also contribute to safety by minimizing the risk of scratches and damage. Enjoy peace of mind knowing that your elevator's design isn't just visually appealing but also protective of your space.</span></p>",
+                            "src": "images/configure/learn-more/aesthetics/concealed-door-hinges"
+                        },
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Painted Metal Ceiling ",
+                            "description": "<p><span class=\"ql-size-caption\">Beyond aesthetics, the painted finish provides durability and protection against wear and tear, ensuring long-lasting beauty. Transform your elevator into a stylish and timeless masterpiece with our Painted Metal Ceiling, where every journey becomes a statement of refined taste and elegance.</span></p>",
+                            "src": "images/configure/learn-more/aesthetics/painted-metal-ceiling"
+                        },
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Concealed Sensors",
+                            "description": "<p><span class=\"ql-size-caption\">Strategically integrated within the elevator structure, these sensors remain hidden from view, maintaining the sleek and uncluttered appearance of your space. Despite their discreet placement, these sensors deliver precise and reliable performance, ensuring smooth operation and enhanced safety without sacrificing style.</span></p>",
+                            "src": "images/configure/learn-more/aesthetics/concealed-sensors"
+                        },
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Concealed Lock Cover",
+                            "description": "<p><span class=\"ql-size-caption\">Designed to seamlessly blend into the elevator's structure, this cover discreetly conceals the lock mechanism, providing a clean and polished finish. Not only does it contribute to the aesthetic appeal of your space, but it also adds an extra layer of security by safeguarding the lock from tampering or damage.</span></p>",
+                            "src": "images/configure/learn-more/aesthetics/concealed-lock-cover"
+                        }
+                    ]
+                },
+                "carpet": {
+                    "title": "Carpet",
+                    "description": null,
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 15,
+                            "titleKey": "beige",
+                            "label": "beige",
+                            "value": null,
+                            "src": "images/configure/options/carpet/beige",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 16,
+                            "titleKey": "red",
+                            "label": "red",
+                            "value": null,
+                            "src": "images/configure/options/carpet/red",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 17,
+                            "titleKey": "grey",
+                            "label": "grey",
+                            "value": null,
+                            "src": "images/configure/options/carpet/grey",
+                            "price": "0",
+                            "colors": []
+                        }
+                    ],
+                    "learnMore": [
+                        {
+                            "title": "Carpet",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Personalize your elevator interior with our range of luxurious carpet options available in Taupe Beige, Scarlet Red, and Ashen Grey. Elevate the ambiance of your space with the rich tones and plush texture of our premium carpets, designed to complement any interior decor style. Whether you prefer the timeless elegance of Taupe Beige, the bold statement of Scarlet Red, or the modern sophistication of Ashen Grey our custom carpet selection allows you to create a truly bespoke elevator experience. Indulge in comfort and style with our exquisite carpet options, making every ride a delight for the senses.</span></p>",
+                            "src": "images/configure/learn-more/carpet/red"
+                        }
+                    ]
+                },
+                "performance": {
+                    "title": "Performance",
+                    "description": "Upgradable Main Board \\n Soundproof 2.0 \\n Trip Counter with Ride History \\n Auto Return \\n Fused Locking Technology \\n Precision Levelling System  \\n Comfort Landing ",
+                    "type": "info",
+                    "options": [],
+                    "learnMore": [
+                        {
+                            "title": "Performance",
+                            "subTitle": "Upgradable Main Board",
+                            "description": "<p><span class=\"ql-size-caption\">Our Upgradable Main Board feature ensures effortless adaptability and sustained performance, safeguarding both users and the board itself. By eliminating all forms of power during upgrades, we prioritize safety, preventing any risk of damage to individuals or the board. This meticulous approach not only enhances user safety but also guarantees the smooth functioning of the cabin. Trust in our commitment to safety and innovation, ensuring your elevator stays ahead of the curve while prioritizing your well-being.</span></p>",
+                            "src": "images/configure/learn-more/performance/upgradable-main-board"
+                        },
+                        {
+                            "title": "Performance",
+                            "subTitle": "Soundproof 2.0",
+                            "description": "<p><span class=\"ql-size-caption\">Engineered for unparalleled noise reduction, our home lifts provide advanced Soundproofing 2.0 feature, boasting a remarkable noise reduction capability of 62dB. Crafted to create a serene environment, Nibav offer unparalleled quietness, shielding you from disruptive external sounds. With Soundproofing 2.0, experience an upgraded level of peace and privacy during your elevator rides.</span></p>",
+                            "src": "images/configure/learn-more/performance/soundproof"
+                        },
+                        {
+                            "title": "Performance",
+                            "subTitle": "Trip Counter with Ride History",
+                            "description": "<p><span class=\"ql-size-caption\">Track every journey effortlessly with our Trip Counter and Ride History feature. Ride History functionality helps in empowering you to monitor elevator activity and identify any irregularities promptly. This provides you with valuable insights into usage patterns and maintenance schedules, ensuring optimal performance and peace of mind. Stay informed and in control with this convenient and transparent functionality.</span></p>",
+                            "src": "images/configure/learn-more/performance/trip-counter"
+                        },
+                        {
+                            "title": "Performance",
+                            "subTitle": "Auto Return",
+                            "description": "<p><span class=\"ql-size-caption\">Experience unparalleled convenience with our Auto Return feature. When the lift is not in use, the cabin automatically returns to the designated floor, eliminating the need for manual adjustment. With customizable settings, you can personalize where the cabin returns to, ensuring it's always in the most convenient position for you. Say goodbye to the hassle of positioning your elevator</span></p>",
+                            "src": "images/configure/learn-more/performance/auto-return"
+                        },
+                        {
+                            "title": "Performance",
+                            "subTitle": "Fused Locking Technology",
+                            "description": "<p><span class=\"ql-size-caption\">Engineered to provide robust protection, this integrates advanced locking mechanisms, ensuring reliable operation. By fusing multiple locking systems, our home lifts offer redundancy, minimizing the risk of unauthorized access or malfunction. Experience heightened security with Fused Locking Technology, where layers of protection work seamlessly to safeguard your elevator. </span></p>",
+                            "src": "images/configure/learn-more/performance/fused-locking-technology"
+                        },
+                        {
+                            "title": "Performance",
+                            "subTitle": "Precision Levelling System",
+                            "description": "<p><span class=\"ql-size-caption\">Track every journey effortlessly with our Trip Counter and Ride History feature. Ride History functionality helps in empowering you to monitor elevator activity and identify any irregularities promptly. This provides you with valuable insights into usage patterns and maintenance schedules, ensuring optimal performance and peace of mind. Stay informed and in control with this convenient and transparent functionality.</span></p>",
+                            "src": "images/configure/learn-more/performance/precision-levelling"
+                        },
+                        {
+                            "title": "Performance",
+                            "subTitle": "Comfort Landing",
+                            "description": "<p><span class=\"ql-size-caption\">Crafted with a unique suspension mechanism, Nibav Lifts ensures an exceptionally smooth landing at every floor stop. Our innovative suspension expertly regulates the elevator’s descent, seamlessly aligning with the stopping level to deliver a razor-smooth landing experience. This revolutionary characteristic not only elevates ride quality for passengers but also reduces strain on the elevator’s components, potentially enhancing their longevity.</span></p>",
+                            "src": "images/configure/learn-more/performance/comfort-landing"
+                        }
+                    ]
+                },
+                "safety": {
+                    "title": "Safety",
+                    "description": "Child / Senior Friendly \\n Infant Mode \\n Layman Rescue \\n Stationary GSM \\n EEM Ride Check \\n 30 Minutes Auxiliary Cabin Power \\n Cabin Door",
+                    "type": "info",
+                    "options": [],
+                    "learnMore": [
+                        {
+                            "title": "Safety",
+                            "subTitle": "Child / Senior Friendly",
+                            "description": "<p><span class=\"ql-size-caption\">With safety as our paramount concern, we have implemented four layers of safety measures that exceed standard requirements. Our elevators are equipped with a switch that gives you control over child safety, allowing you to tailor the elevator's operation to your specific needs. Additionally, we ensure 100% safety by controlling who has access to the lift, providing peace of mind for you and your loved ones. From reduced button heights to handrails positioned for optimal stability, every aspect of our design is meticulously crafted to prioritize safety and comfort for users of all ages.</span></p>",
+                            "src": "images/configure/learn-more/safety/friendly"
+                        },
+                        {
+                            "title": "Safety",
+                            "subTitle": "Infant Mode",
+                            "description": "<p><span class=\"ql-size-caption\">Infant Mode provides enhanced protection and peace of mind for parents and caregivers. This specialized mode ensures gentle acceleration and deceleration, minimizing any discomfort for infants during elevator rides. Additionally, advanced sensors and safety mechanisms are activated to prevent any unintended movements or disruptions. With Infant Mode, we go above and beyond to create a secure and comfortable environment for your little ones,</span></p>",
+                            "src": "images/configure/learn-more/safety/infant-mode"
+                        },
+                        {
+                            "title": "Safety",
+                            "subTitle": "Layman Rescue",
+                            "description": "<p><span class=\"ql-size-caption\">In the rare event of an emergency, this intuitive system allows bystanders or laymen to assist passengers safely and effectively. With clear and simple instructions, Layman Rescue empowers individuals without specialized training to provide assistance, ensuring the well-being of everyone onboard. With Layman Rescue, you can trust in our elevator's ability to prioritize safety in all situations, giving you confidence in your choice for vertical transportation.</span></p>",
+                            "src": "images/configure/learn-more/safety/layman-rescue"
+                        },
+                        {
+                            "title": "Safety",
+                            "subTitle": "Stationary GSM ",
+                            "description": "<p><span class=\"ql-size-caption\">Our Nibav elevators are equipped with Stationary GSM technology. This innovative feature allows for real-time communication and monitoring, even when the elevator is stationary. With Stationary GSM, our elevators remain connected to monitoring systems and support teams, enabling swift response in case of emergencies or technical issues. This advanced technology enhances safety and reliability, providing continuous communication capabilities to ensure the well-being of passengers at all times</span></p>",
+                            "src": "images/configure/learn-more/safety/stationary-gsm"
+                        },
+                        {
+                            "title": "Safety",
+                            "subTitle": "EEM Ride Check ",
+                            "description": "<p><span class=\"ql-size-caption\">EEM Landing Door combines electric, electronic, and mechanical connections to ensure the highest level of safety and reliability. This comprehensive approach covers all potential failure points, both mechanical and electrical, to safeguard passengers at all times. With EEM Ride Check continuously monitoring the elevator's operation and the EEM Landing Door provides robust security, we ensure optimal performance and passenger safety in every ride.</span></p>",
+                            "src": "images/configure/learn-more/safety/eem-ride-check"
+                        },
+                        {
+                            "title": "Safety",
+                            "subTitle": "30 Minutes Auxiliary Cabin Power",
+                            "description": "<p><span class=\"ql-size-caption\">Our elevators feature a 30 Minutes Auxiliary Cabin Power system. In the event of a power outage, this ensures that the elevator remains operational for up to 30 minutes, providing passengers with ample time to reach their destination safely. This innovative feature includes an AUX Battery designed to power essential functions such as lighting, ventilation, emergency alarm, and communication systems. Serving as a backup for the main battery. With this comprehensive backup system in place, passengers are guaranteed a secure and comfortable environment inside the cabin, regardless of external circumstances</span></p>",
+                            "src": "images/configure/learn-more/safety/auxiliary-cabin-power"
+                        },
+                        {
+                            "title": "Safety",
+                            "subTitle": "Cabin Door",
+                            "description": "<p><span class=\"ql-size-caption\">Nibav elevators employs a combination of advanced sensors and mechanisms to ensure the secure operation of cabin doors at all times. From precise alignment to swift closing, every aspect of our Cabin Door Safety System is meticulously designed to prevent accidents and maintain passenger safety.</span></p>",
+                            "src": "images/configure/learn-more/safety/cabin-door"
+                        }
+                    ]
+                },
+                "delivery": {
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 1,
+                            "label": "Free Delivery - 4 Months",
+                            "value": "Standard Delivery",
+                            "price": "0"
+                        },
+                        {
+                            "id": 2,
+                            "label": "Fast Delivery - 3 Month",
+                            "value": "",
+                            "price": "40000"
+                        },
+                        {
+                            "id": 3,
+                            "label": "Rapid Delivery - 1 Month",
+                            "value": "",
+                            "price": "120000"
+                        }
+                    ]
+                }
+            },
+            "accessories": [
+                {
+                    "id": 1,
+                    "titleKey": "foldableSeat",
+                    "label": "Foldable seat",
+                    "value": "<p><span class=\"ql-size-caption\">Designed for comfort and practicality, this accessory provides passengers with the option to sit comfortably during their ride. Whether you're carrying heavy items or simply prefer to take a seat, our foldable design allow",
+                    "src": "images/configure/accessories/foldableSeat",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Foldable seat",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Designed for comfort and practicality, this accessory provides passengers with the option to sit comfortably during their ride. Whether you're carrying heavy items or simply prefer to take a seat, our foldable design allow",
+                            "src": "images/configure/accessories/learn-more/foldable-seat"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titleKey": "cabinHandle",
+                    "label": "Handle",
+                    "value": "<p><span class=\"ql-size-caption\">Crafted with durable materials and ergonomic design, this handle provides passengers with a secure grip during their elevator journey. Our innovative feature includes door handles painted to match the shaft color, seamless",
+                    "src": "images/configure/accessories/cabinHandle",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Handle",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Crafted with durable materials and ergonomic design, this handle provides passengers with a secure grip during their elevator journey. Our innovative feature includes door handles painted to match the shaft color, seamless",
+                            "src": "images/configure/accessories/learn-more/handle"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titleKey": "alexa",
+                    "label": "Alexa",
+                    "value": "<p><span class=\"ql-size-caption\">Transform your elevator experience with our Alexa Integration accessory. Seamlessly connect your elevator to the power of voice control, allowing you to effortlessly operate your lift with simple voice commands. Whether yo",
+                    "src": "images/configure/accessories/alexa",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Alexa",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Transform your elevator experience with our Alexa Integration accessory. Seamlessly connect your elevator to the power of voice control, allowing you to effortlessly operate your lift with simple voice commands. Whether yo",
+                            "src": "images/configure/accessories/learn-more/alexa"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "titleKey": "coverPlate",
+                    "label": "Cover Plate",
+                    "value": "<p><span class=\"ql-size-caption\">Designed to conceal and protect mechanical components, the Cover Plate adds a sleek and polished finish to your elevator's interior. Crafted with durable materials and customizable finishes, this accessory seamlessly integ",
+                    "src": "images/configure/accessories/coverPlate",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Cover Plate",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Designed to conceal and protect mechanical components, the Cover Plate adds a sleek and polished finish to your elevator's interior. Crafted with durable materials and customizable finishes, this accessory seamlessly integ",
+                            "src": "images/configure/accessories/learn-more/cover-plate"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "titleKey": "coverPlateRoof",
+                    "label": "Cover Plate Roof",
+                    "value": "<p><span class=\"ql-size-caption\">Situated at the top of the cabin, this cover plate adds a finishing touch to your elevator's interior, ensuring a sleek and polished appearance. Crafted with precision and attention to detail, our cover plates seamlessly c",
+                    "src": "images/configure/accessories/coverPlateRoof",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Cover Plate Roof",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Situated at the top of the cabin, this cover plate adds a finishing touch to your elevator's interior, ensuring a sleek and polished appearance. Crafted with precision and attention to detail, our cover plates seamlessly c",
+                            "src": "images/configure/accessories/learn-more/cover-plate-roof"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "titleKey": "supportBracket",
+                    "label": "Support Bracket",
+                    "value": "<p><span class=\"ql-size-caption\">Our Support Bracket provides additional support and stability, ensuring a smooth and secure ride for passengers. Crafted with durable materials and precision engineering, this accessory is installed discreetly to minimize ",
+                    "src": "images/configure/accessories/supportBracket",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Support Bracket",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Our Support Bracket provides additional support and stability, ensuring a smooth and secure ride for passengers. Crafted with durable materials and precision engineering, this accessory is installed discreetly to minimize ",
+                            "src": "images/configure/accessories/learn-more/support-bracket"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "titleKey": "earthquakeBracket",
+                    "label": "Earthquake Bracket",
+                    "value": "<p><span class=\"ql-size-caption\">In addition to the standard brackets, these specially designed accessories provide extra support to the lift, reinforcing the shaft during seismic events. Crafted with robust materials and precision engineering, our Earthq",
+                    "src": "images/configure/accessories/earthquakeBracket",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Earthquake Bracket",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">In addition to the standard brackets, these specially designed accessories provide extra support to the lift, reinforcing the shaft during seismic events. Crafted with robust materials and precision engineering, our Earthq",
+                            "src": "images/configure/accessories/learn-more/earthquake-bracket"
+                        }
+                    ]
+                }
+            ],
+            "offers": [
+                {
+                    "title": "",
+                    "description": "Secure Your Nibav Elevator Today and receive a Complimentary Luxurious Foldable Chair!",
+                    "details": [
+                        {
+                            "title": "Foldable seat",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Designed for comfort and practicality, this accessory provides passengers with the option to sit comfortably during their ride. Whether you're carrying heavy items or simply prefer to take a seat, our foldable design allow",
+                            "src": "images/configure/accessories/learn-more/foldable-seat"
+                        }
+                    ]
+                },
+                {
+                    "title": "",
+                    "description": "Be First in Line: Register Now for an Exclusive Invite to the Nibav Series 4 Launch Event!",
+                    "details": []
+                }
+            ]
+        },
+        {
+            "productName": "Series III",
+            "variation": {
+                "label": "Max",
+                "value": "series-iii-max"
+            },
+            "specifications": {
+                "noOfPersons": 3,
+                "noOfStops": 3,
+                "payload": 240,
+                "externalSize": 981,
+                "ros": "76%"
+            },
+            "priceFrom": "1290000",
+            "advancedPrice": "350000",
+            "sections": {
+                "noOfStops": {
+                    "title": "No of Stops",
+                    "description": null,
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 3,
+                            "titleKey": "two-stops",
+                            "label": "Floor 0 & 1(Two Stops)",
+                            "value": "2",
+                            "src": null,
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 4,
+                            "titleKey": "three-stops",
+                            "label": "Floor 0,1 & 2(Three Stops)",
+                            "value": "3",
+                            "src": null,
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 5,
+                            "titleKey": "four-stops",
+                            "label": "Floor 0,1,2 & 3(Four Stops)",
+                            "value": "4",
+                            "src": null,
+                            "price": "0",
+                            "colors": []
+                        }
+                    ],
+                    "learnMore": [
+                        {
+                            "title": "Floor 0 & 1 (Two Stops)",
+                            "subTitle": null,
+                            "description": null,
+                            "src": "images/configure/learn-more/noOfStops/2-stops"
+                        },
+                        {
+                            "title": "Floor 0, 1 & 2 (Three Stops)",
+                            "subTitle": null,
+                            "description": null,
+                            "src": "images/configure/learn-more/noOfStops/3-stops"
+                        },
+                        {
+                            "title": "Floor 0, 1, 2 & 3 (Four Stops)",
+                            "subTitle": null,
+                            "description": null,
+                            "src": "images/configure/learn-more/noOfStops/4-stops"
+                        }
+                    ]
+                },
+                "color": {
+                    "title": "Lift Colour",
+                    "description": null,
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 6,
+                            "titleKey": "standard",
+                            "label": "Standard Colours",
+                            "value": null,
+                            "src": null,
+                            "price": "0",
+                            "colors": [
+                                {
+                                    "id": 1,
+                                    "label": "Pure White",
+                                    "titleKey": "pureWhite"
+                                },
+                                {
+                                    "id": 2,
+                                    "label": "Cream White",
+                                    "titleKey": "creamWhite"
+                                },
+                                {
+                                    "id": 3,
+                                    "label": "Ashen Grey",
+                                    "titleKey": "ashenGrey"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "titleKey": "premium",
+                            "label": "Premium Colours",
+                            "value": null,
+                            "src": null,
+                            "price": "0",
+                            "colors": [
+                                {
+                                    "id": 4,
+                                    "label": "Cobalt Blue",
+                                    "titleKey": "cobaltBlue"
+                                },
+                                {
+                                    "id": 5,
+                                    "label": "Sienna Brown",
+                                    "titleKey": "siennaBrown"
+                                },
+                                {
+                                    "id": 6,
+                                    "label": "Midnight Black",
+                                    "titleKey": "midnightBlack"
+                                },
+                                {
+                                    "id": 7,
+                                    "label": "Viridian Green",
+                                    "titleKey": "viridianGreen"
+                                },
+                                {
+                                    "id": 10,
+                                    "label": "Scarlet Red",
+                                    "titleKey": "scarletRed"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "titleKey": "metallic",
+                            "label": "Metallic Colours",
+                            "value": null,
+                            "src": null,
+                            "price": "0",
+                            "colors": [
+                                {
+                                    "id": 8,
+                                    "label": "Pearl Gold",
+                                    "titleKey": "pearlGold"
+                                },
+                                {
+                                    "id": 9,
+                                    "label": "Silver Grey",
+                                    "titleKey": "silverGrey"
+                                }
+                            ]
+                        }
+                    ],
+                    "learnMore": []
+                },
+                "assurancePackage": {
+                    "title": "Assurance Package",
+                    "description": "Carbon Seal \\n Lifetime Warranty on Seal and Motor \\n 5 Layers of Safety",
+                    "type": "info",
+                    "options": [],
+                    "learnMore": [
+                        {
+                            "title": "Assurance Package",
+                            "subTitle": "Carbon Seal",
+                            "description": "<p><span class=\"ql-size-caption\">The carbon seal is a critical component that ensures smooth and efficient operation of your lift, providing a barrier against dust, debris, and moisture to protect the internal mechanisms. </span></p><p><br></p><p><span class=\"ql-size-caption\"><span class=\"ql-cursor\">﻿</span>With our lifetime warranty, you can have complete confidence in the durability and performance. Whether it's preserving the integrity of your lift's mechanisms or enhancing the longevity of your investment, our commitment to quality and customer satisfaction is unwavering.</span></p>",
+                            "src": "images/configure/learn-more/assurancePackage/carbon-seal"
+                        },
+                        {
+                            "title": "Assurance Package",
+                            "subTitle": "Lifetime Warranty on Seal and Motor",
+                            "description": "<p><span class=\"ql-size-caption\">We prioritize reliability and longevity in our home lifts. That's why we're excited to offer a lifetime warranty for the motors in our home lifts. These motors are the heart of your lift, providing the power and efficiency needed for smooth and reliable operation day after day. </span></p><p><br></p><p><span class=\"ql-size-caption\"><span class=\"ql-cursor\">﻿</span>With our lifetime warranty, you can rest assured knowing that your home lift's motors are covered for the duration of its lifetime.</span></p>",
+                            "src": "images/configure/learn-more/assurancePackage/lifetime-warranty"
+                        },
+                        {
+                            "title": "Assurance Package",
+                            "subTitle": "5 Layers of Safety",
+                            "description": "<p><strong>DID YOU KNOW THAT OUR ELEVATOR’S TECHNOLOGY IS THE SAFEST ON THE PLANET?</strong></p><p><strong class=\"ql-size-small\">1. Automatic Descent:</strong></p><p><span class=\"ql-size-caption\">  - Experience peace of mind knowing that in the event of a power outage, our elevator automatically descends to the ground floor. You can simply open the door manually and exit without any technical assistance. </span></p><p><strong class=\"ql-size-small\">2. Emergency Landing Button:</strong></p><p><span class=\"ql-size-caption\">  - Rest assured, our elevator is equipped with an 'Emergency Landing Button' inside and outside the cabin. In case the elevator gets stuck between floors, simply press this button to safely land the elevator on the ground floor. </span></p><p><strong class=\"ql-size-small\">3. Sure Stop Safety Feature:</strong></p><p><span class=\"ql-size-caption\">  - Safety is our top priority. If there's a pneumatic pressure failure or if the lift exceeds the designated speed, our 'Sure Stop' safety feature kicks in. It locks the elevator's car within 2 inches, ensuring your safety at all times. </span></p><p><strong class=\"ql-size-small\">4. Conventional Lock:</strong></p><p><span class=\"ql-size-caption\">  - For added peace of mind, our elevator comes with a conventional lock on the door. In case of an emergency, you can manually unlock the elevator using this feature. Experience unmatched safety and peace of mind with our elevator technology – designed to keep you safe in every situation.</span></p>",
+                            "src": "images/configure/learn-more/assurancePackage/5-layer"
+                        }
+                    ]
+                },
+                "doorAccess": {
+                    "title": "Door Access",
+                    "description": null,
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 9,
+                            "titleKey": "side-a",
+                            "label": "Side A",
+                            "value": null,
+                            "src": "images/configure/options/doorAccess/sides/left/side-a",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 10,
+                            "titleKey": "side-b",
+                            "label": "Side B",
+                            "value": null,
+                            "src": "images/configure/options/doorAccess/sides/left/side-b",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 11,
+                            "titleKey": "side-c",
+                            "label": "Side C",
+                            "value": null,
+                            "src": "images/configure/options/doorAccess/sides/left/side-c",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 12,
+                            "titleKey": "side-d",
+                            "label": "Side D",
+                            "value": null,
+                            "src": "images/configure/options/doorAccess/sides/left/side-d",
+                            "price": "0",
+                            "colors": []
+                        }
+                    ],
+                    "learnMore": [
+                        {
+                            "title": "Door Access - Side A (South",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">On the ground floor, Side A (South) offers a customizable door access option for your lift. This means that upon installation, you have the flexibility to configure the lift's door to open towards Side A (South), facilitating convenient entry and exit from the lift on the ground floor. Whether you prefer the door to open towards the left, right, front, or rear, Side A (South) allows you to tailor the door access according to your specific requirements and layout of the lift lobby.</span></p>",
+                            "src": "images/configure/options/doorAccess/sides/left/side-a"
+                        },
+                        {
+                            "title": "Door Access - Side B (West)",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Transitioning to the first floor, Side B (West) provides another customizable door access option for your lift. During installation, you can configure the lift's door to open towards Side B (West), ensuring seamless entry and exit from the lift on the first floor. Whether you need the door to open towards a different direction than on the ground floor or align with specific pathways or rooms, Side B (West) offers the flexibility to accommodate your preferences and layout of the first-floor area.</span></p>",
+                            "src": "images/configure/options/doorAccess/sides/left/side-b"
+                        },
+                        {
+                            "title": "Door Access - Side C (North)",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">As you reach the second floor, Side C (North) introduces yet another customizable door access option for your lift. With Side C (North), you have the freedom to configure the lift's door to open in a direction that best suits your needs on the second floor. Whether it's aligning with different pathways, rooms, or specific areas of activity, Side C (North) ensures that entry and exit from the lift on the second floor are tailored to your convenience and requirements, enhancing the overall usability of the lift.</span></p>",
+                            "src": "images/configure/options/doorAccess/sides/left/side-c"
+                        },
+                        {
+                            "title": "Door Access - Side D (East)",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Finally, on the third floor, Side D (East) completes the array of customizable door access options for your lift. With Side D (East), you can configure the lift's door to open towards the desired direction on the third floor, providing seamless entry and exit as per your preferences. Whether you require the door to open towards specific rooms, corridors, or areas of interest on the third floor, Side D (East) ensures that the lift's door access is perfectly aligned with your convenience and requirements, offering a personalized lift experience tailored to each floor's layout</span></p>",
+                            "src": "images/configure/options/doorAccess/sides/left/side-d"
+                        }
+                    ]
+                },
+                "hinge": {
+                    "title": "Hinge",
+                    "description": null,
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 13,
+                            "titleKey": "left",
+                            "label": "Left Hinge",
+                            "value": null,
+                            "src": "images/configure/options/hinge/left",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 14,
+                            "titleKey": "right",
+                            "label": "Right Hinge",
+                            "value": null,
+                            "src": "images/configure/options/hinge/right",
+                            "price": "0",
+                            "colors": []
+                        }
+                    ],
+                    "learnMore": [
+                        {
+                            "title": "Right Hinge",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Complementing its counterpart, Our Nibav Lifts also includes a high-quality right hinge. Strategically positioned, it ensures even weight distribution and adapts to various architectural layouts. With advanced safety features and concealed hinges, it guarantees a safe, reliable, and aesthetically pleasing journey for passengers, enhancing the overall ambiance of your lift space.</span></p>",
+                            "src": "images/configure/learn-more/hinge/right"
+                        },
+                        {
+                            "title": "Left Hinge",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Nibav Lifts features a high-quality left hinge, ensuring stability and smooth movement between floors. With concealed hinges for a seamless finish, your lift experience is upgraded to a new level of sophistication and elegance.</span></p>",
+                            "src": "images/configure/learn-more/hinge/left"
+                        }
+                    ]
+                },
+                "luxuryPackage": {
+                    "title": "Luxury Package ",
+                    "description": "Zero Visible Screws \\n Intermediate Uni cylinder \\n Cabin Matched to Shaft Colour",
+                    "type": "info",
+                    "options": [],
+                    "learnMore": [
+                        {
+                            "title": "Luxury Package ",
+                            "subTitle": "Zero Visible Screws",
+                            "description": "<p><span class=\"ql-size-caption\">Immerse yourself in seamless elegance with our Zero Visible Screws feature. Every aspect of your lift is meticulously crafted to perfection, ensuring a sleek and flawless appearance without any unsightly screws disrupting the aesthetic harmony.</span></p>",
+                            "src": "images/configure/learn-more/luxuryPackage/zero-visible"
+                        },
+                        {
+                            "title": "Luxury Package ",
+                            "subTitle": "Intermediate Uni cylinder",
+                            "description": "<p><span class=\"ql-size-caption\">Experience smooth and silent operation with our Intermediate Uni Cylinder. Engineered for optimal performance and efficiency, this advanced cylinder design enhances the overall ride quality, providing you with a luxurious lift experience that exceeds expectations.</span></p>",
+                            "src": "images/configure/learn-more/luxuryPackage/intermediate-cylinder"
+                        },
+                        {
+                            "title": "Luxury Package ",
+                            "subTitle": "Cabin Matched to Shaft Colour",
+                            "description": "<p><span class=\"ql-size-caption\">Elevate the visual appeal of your lift with our Cabin Matched to Shaft Colour feature. Seamlessly blend the cabin's design with the shaft's color scheme, creating a cohesive and harmonious look that enhances the overall ambiance of your home.</span></p>",
+                            "src": "images/configure/learn-more/luxuryPackage/cabin"
+                        }
+                    ]
+                },
+                "designerPackage": {
+                    "title": "Designer Package",
+                    "description": "Curved Shaft with No Sharp Edges \\n Largest Panoramic Cabin \\n Flushed Cylinder Joints",
+                    "type": "info",
+                    "options": [],
+                    "learnMore": [
+                        {
+                            "title": "Designer Package",
+                            "subTitle": "Curved Shaft with No Sharp Edges",
+                            "description": "<p><span class=\"ql-size-caption\">With our Curved Shaft with No Sharp Edges, every journey is not just stylish but also safe. Experience peace of mind knowing that your loved ones can move seamlessly throughout your home without worrying about sharp edges. </span></p><p><br></p><p><span class=\"ql-size-caption\">Indulge in the beauty of a curved design that not only enhances the aesthetics of your space but also reflects your discerning taste and commitment to safety. Elevate your home and your lifestyle with our Designer Package, where luxury meets peace of mind.</span></p>",
+                            "src": "images/configure/learn-more/designerPackage/curved-shaft"
+                        },
+                        {
+                            "title": "Designer Package",
+                            "subTitle": "Largest Panoramic Cabin",
+                            "description": "<p><span class=\"ql-size-caption\">Immerse yourself in a world of expansive vistas with our Largest Panoramic Cabin feature. Crafted with your comfort and safety in mind, our elevators offer breathtaking 360-degree views that transcend claustrophobic feelings. Enjoy a clear view of your home, fostering a sense of security and connectivity for everyone onboard. Additionally, the transparency of our elevators enhances their visual appeal, guaranteeing an exceptional and unforgettable experience for all passengers.</span></p>",
+                            "src": "images/configure/learn-more/designerPackage/largest-panoramic"
+                        },
+                        {
+                            "title": "Designer Package",
+                            "subTitle": "Flushed Cylinder Joints",
+                            "description": "<p><span class=\"ql-size-caption\">Flushed Cylinder Joints are a sophisticated component integrated into our vacuum home elevator. Unlike traditional joints that protrude, these joints are meticulously engineered to seamlessly integrate into the elevator structure, providing a sleek and streamlined appearance offering both style and functionality for those seeking a premium home lift solution.</span></p>",
+                            "src": "images/configure/learn-more/designerPackage/flushed-cylinder"
+                        }
+                    ]
+                },
+                "headUnit": {
+                    "title": "Head Unit",
+                    "description": null,
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 1,
+                            "titleKey": "builtIn",
+                            "label": "Built In",
+                            "value": null,
+                            "src": "images/configure/options/headUnit/built-in",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 2,
+                            "titleKey": "detached",
+                            "label": "Detached",
+                            "value": null,
+                            "src": "images/configure/options/headUnit/detached",
+                            "price": "0",
+                            "colors": []
+                        }
+                    ],
+                    "learnMore": [
+                        {
+                            "title": "Built In",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Our lifts boast a head unit atop the shaft, ensuring ample headroom of 2749mm for a spacious and comfortable ride. </span></p><p><br></p><p><span class=\"ql-size-caption\">Built with ingenuity, our lifts integrate the motor atop the elevator itself. This sleek design not only saves precious space but also eliminates the need for a separate machine room. With 2749mm headroom and operating at just 62 decibels, our lifts provide a tranquil experience akin to the hush of a library.</span></p>",
+                            "src": "images/configure/learn-more/headUnit/built-in"
+                        },
+                        {
+                            "title": "Detached",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Nibav Home Lifts redefine comfort and convenience with our innovative detached headroom design. By positioning the motor away from the shaft, we offer a perfect fit for homes with limited overhead spaces, providing ample headroom of 2449mm (60 decibels) for a tranquil ride akin to the hush of a library. Explore the Nibav difference today. </span></p>",
+                            "src": "images/configure/learn-more/headUnit/detached"
+                        }
+                    ]
+                },
+                "aesthetics": {
+                    "title": "Aesthetics",
+                    "description": "Aluminium Frameless Landing Door \\n Crome Door Handle \\n Hidden Connector Holes  \\n Concealed Door Hinges \\n Painted Metal Ceiling \\n Concealed Sensors \\n Concealed Lock Cover ",
+                    "type": "info",
+                    "options": [],
+                    "learnMore": [
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Aluminium Frameless Landing Door",
+                            "description": "<p><span class=\"ql-size-caption\">Elevate the visual appeal of your space with our Aluminium Frameless Landing Door, a hallmark of modern elegance and sophistication. The frameless design not only enhances aesthetics but also maximizes natural light flow, creating an open and inviting atmosphere within your home or building. Made from high-quality aluminium, these doors are not only visually stunning but also durable and resistant to corrosion, ensuring long-lasting beauty and functionality.</span></p>",
+                            "src": "images/configure/learn-more/aesthetics/aluminium-frameless"
+                        },
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Crome Door Handle",
+                            "description": "<p><span class=\"ql-size-caption\">Our door handle not only enhances the aesthetic appeal of your elevator but also offers a luxurious feel with every touch. The chrome finish brings a contemporary elegance to any interior design, complementing a wide range of decor styles. Designed for both durability and style, our Chrome Door Handle is built to withstand everyday use while maintaining its stunning appearance for years to come.</span></p>",
+                            "src": "images/configure/learn-more/aesthetics/crome-door"
+                        },
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Hidden Connector Holes ",
+                            "description": "<p><span class=\"ql-size-caption\">Elevate the elegance of your elevator design with our innovative Hidden Connector Holes feature. By seamlessly integrating connectors within the elevator structure, we eliminate unsightly protrusions and create a clean, streamlined appearance. These discreetly placed connector holes ensure a polished finish while maintaining the functionality of your elevator. Experience a refined aesthetic with Hidden Connector Holes, where form meets function seamlessly. </span></p>",
+                            "src": "images/configure/learn-more/aesthetics/hidden-connector-holes"
+                        },
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Concealed Door Hinges",
+                            "description": "<p><span class=\"ql-size-caption\">Ingeniously integrated within the door structure, these hinges not only enhance the sleek appearance of your elevator but also contribute to safety by minimizing the risk of scratches and damage. Enjoy peace of mind knowing that your elevator's design isn't just visually appealing but also protective of your space.</span></p>",
+                            "src": "images/configure/learn-more/aesthetics/concealed-door-hinges"
+                        },
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Painted Metal Ceiling ",
+                            "description": "<p><span class=\"ql-size-caption\">Beyond aesthetics, the painted finish provides durability and protection against wear and tear, ensuring long-lasting beauty. Transform your elevator into a stylish and timeless masterpiece with our Painted Metal Ceiling, where every journey becomes a statement of refined taste and elegance.</span></p>",
+                            "src": "images/configure/learn-more/aesthetics/painted-metal-ceiling"
+                        },
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Concealed Sensors",
+                            "description": "<p><span class=\"ql-size-caption\">Strategically integrated within the elevator structure, these sensors remain hidden from view, maintaining the sleek and uncluttered appearance of your space. Despite their discreet placement, these sensors deliver precise and reliable performance, ensuring smooth operation and enhanced safety without sacrificing style.</span></p>",
+                            "src": "images/configure/learn-more/aesthetics/concealed-sensors"
+                        },
+                        {
+                            "title": "Aesthetics",
+                            "subTitle": "Concealed Lock Cover",
+                            "description": "<p><span class=\"ql-size-caption\">Designed to seamlessly blend into the elevator's structure, this cover discreetly conceals the lock mechanism, providing a clean and polished finish. Not only does it contribute to the aesthetic appeal of your space, but it also adds an extra layer of security by safeguarding the lock from tampering or damage.</span></p>",
+                            "src": "images/configure/learn-more/aesthetics/concealed-lock-cover"
+                        }
+                    ]
+                },
+                "carpet": {
+                    "title": "Carpet",
+                    "description": null,
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 15,
+                            "titleKey": "beige",
+                            "label": "beige",
+                            "value": null,
+                            "src": "images/configure/options/carpet/beige",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 16,
+                            "titleKey": "red",
+                            "label": "red",
+                            "value": null,
+                            "src": "images/configure/options/carpet/red",
+                            "price": "0",
+                            "colors": []
+                        },
+                        {
+                            "id": 17,
+                            "titleKey": "grey",
+                            "label": "grey",
+                            "value": null,
+                            "src": "images/configure/options/carpet/grey",
+                            "price": "0",
+                            "colors": []
+                        }
+                    ],
+                    "learnMore": [
+                        {
+                            "title": "Carpet",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Personalize your elevator interior with our range of luxurious carpet options available in Taupe Beige, Scarlet Red, and Ashen Grey. Elevate the ambiance of your space with the rich tones and plush texture of our premium carpets, designed to complement any interior decor style. Whether you prefer the timeless elegance of Taupe Beige, the bold statement of Scarlet Red, or the modern sophistication of Ashen Grey our custom carpet selection allows you to create a truly bespoke elevator experience. Indulge in comfort and style with our exquisite carpet options, making every ride a delight for the senses.</span></p>",
+                            "src": "images/configure/learn-more/carpet/red"
+                        }
+                    ]
+                },
+                "performance": {
+                    "title": "Performance",
+                    "description": "Upgradable Main Board \\n Soundproof 2.0 \\n Trip Counter with Ride History \\n Auto Return \\n Fused Locking Technology \\n Precision Levelling System  \\n Comfort Landing ",
+                    "type": "info",
+                    "options": [],
+                    "learnMore": [
+                        {
+                            "title": "Performance",
+                            "subTitle": "Upgradable Main Board",
+                            "description": "<p><span class=\"ql-size-caption\">Our Upgradable Main Board feature ensures effortless adaptability and sustained performance, safeguarding both users and the board itself. By eliminating all forms of power during upgrades, we prioritize safety, preventing any risk of damage to individuals or the board. This meticulous approach not only enhances user safety but also guarantees the smooth functioning of the cabin. Trust in our commitment to safety and innovation, ensuring your elevator stays ahead of the curve while prioritizing your well-being.</span></p>",
+                            "src": "images/configure/learn-more/performance/upgradable-main-board"
+                        },
+                        {
+                            "title": "Performance",
+                            "subTitle": "Soundproof 2.0",
+                            "description": "<p><span class=\"ql-size-caption\">Engineered for unparalleled noise reduction, our home lifts provide advanced Soundproofing 2.0 feature, boasting a remarkable noise reduction capability of 62dB. Crafted to create a serene environment, Nibav offer unparalleled quietness, shielding you from disruptive external sounds. With Soundproofing 2.0, experience an upgraded level of peace and privacy during your elevator rides.</span></p>",
+                            "src": "images/configure/learn-more/performance/soundproof"
+                        },
+                        {
+                            "title": "Performance",
+                            "subTitle": "Trip Counter with Ride History",
+                            "description": "<p><span class=\"ql-size-caption\">Track every journey effortlessly with our Trip Counter and Ride History feature. Ride History functionality helps in empowering you to monitor elevator activity and identify any irregularities promptly. This provides you with valuable insights into usage patterns and maintenance schedules, ensuring optimal performance and peace of mind. Stay informed and in control with this convenient and transparent functionality.</span></p>",
+                            "src": "images/configure/learn-more/performance/trip-counter"
+                        },
+                        {
+                            "title": "Performance",
+                            "subTitle": "Auto Return",
+                            "description": "<p><span class=\"ql-size-caption\">Experience unparalleled convenience with our Auto Return feature. When the lift is not in use, the cabin automatically returns to the designated floor, eliminating the need for manual adjustment. With customizable settings, you can personalize where the cabin returns to, ensuring it's always in the most convenient position for you. Say goodbye to the hassle of positioning your elevator</span></p>",
+                            "src": "images/configure/learn-more/performance/auto-return"
+                        },
+                        {
+                            "title": "Performance",
+                            "subTitle": "Fused Locking Technology",
+                            "description": "<p><span class=\"ql-size-caption\">Engineered to provide robust protection, this integrates advanced locking mechanisms, ensuring reliable operation. By fusing multiple locking systems, our home lifts offer redundancy, minimizing the risk of unauthorized access or malfunction. Experience heightened security with Fused Locking Technology, where layers of protection work seamlessly to safeguard your elevator. </span></p>",
+                            "src": "images/configure/learn-more/performance/fused-locking-technology"
+                        },
+                        {
+                            "title": "Performance",
+                            "subTitle": "Precision Levelling System",
+                            "description": "<p><span class=\"ql-size-caption\">Track every journey effortlessly with our Trip Counter and Ride History feature. Ride History functionality helps in empowering you to monitor elevator activity and identify any irregularities promptly. This provides you with valuable insights into usage patterns and maintenance schedules, ensuring optimal performance and peace of mind. Stay informed and in control with this convenient and transparent functionality.</span></p>",
+                            "src": "images/configure/learn-more/performance/precision-levelling"
+                        },
+                        {
+                            "title": "Performance",
+                            "subTitle": "Comfort Landing",
+                            "description": "<p><span class=\"ql-size-caption\">Crafted with a unique suspension mechanism, Nibav Lifts ensures an exceptionally smooth landing at every floor stop. Our innovative suspension expertly regulates the elevator’s descent, seamlessly aligning with the stopping level to deliver a razor-smooth landing experience. This revolutionary characteristic not only elevates ride quality for passengers but also reduces strain on the elevator’s components, potentially enhancing their longevity.</span></p>",
+                            "src": "images/configure/learn-more/performance/comfort-landing"
+                        }
+                    ]
+                },
+                "safety": {
+                    "title": "Safety",
+                    "description": "Child / Senior Friendly \\n Infant Mode \\n Layman Rescue \\n Stationary GSM \\n EEM Ride Check \\n 30 Minutes Auxiliary Cabin Power \\n Cabin Door",
+                    "type": "info",
+                    "options": [],
+                    "learnMore": [
+                        {
+                            "title": "Safety",
+                            "subTitle": "Child / Senior Friendly",
+                            "description": "<p><span class=\"ql-size-caption\">With safety as our paramount concern, we have implemented four layers of safety measures that exceed standard requirements. Our elevators are equipped with a switch that gives you control over child safety, allowing you to tailor the elevator's operation to your specific needs. Additionally, we ensure 100% safety by controlling who has access to the lift, providing peace of mind for you and your loved ones. From reduced button heights to handrails positioned for optimal stability, every aspect of our design is meticulously crafted to prioritize safety and comfort for users of all ages.</span></p>",
+                            "src": "images/configure/learn-more/safety/friendly"
+                        },
+                        {
+                            "title": "Safety",
+                            "subTitle": "Infant Mode",
+                            "description": "<p><span class=\"ql-size-caption\">Infant Mode provides enhanced protection and peace of mind for parents and caregivers. This specialized mode ensures gentle acceleration and deceleration, minimizing any discomfort for infants during elevator rides. Additionally, advanced sensors and safety mechanisms are activated to prevent any unintended movements or disruptions. With Infant Mode, we go above and beyond to create a secure and comfortable environment for your little ones,</span></p>",
+                            "src": "images/configure/learn-more/safety/infant-mode"
+                        },
+                        {
+                            "title": "Safety",
+                            "subTitle": "Layman Rescue",
+                            "description": "<p><span class=\"ql-size-caption\">In the rare event of an emergency, this intuitive system allows bystanders or laymen to assist passengers safely and effectively. With clear and simple instructions, Layman Rescue empowers individuals without specialized training to provide assistance, ensuring the well-being of everyone onboard. With Layman Rescue, you can trust in our elevator's ability to prioritize safety in all situations, giving you confidence in your choice for vertical transportation.</span></p>",
+                            "src": "images/configure/learn-more/safety/layman-rescue"
+                        },
+                        {
+                            "title": "Safety",
+                            "subTitle": "Stationary GSM ",
+                            "description": "<p><span class=\"ql-size-caption\">Our Nibav elevators are equipped with Stationary GSM technology. This innovative feature allows for real-time communication and monitoring, even when the elevator is stationary. With Stationary GSM, our elevators remain connected to monitoring systems and support teams, enabling swift response in case of emergencies or technical issues. This advanced technology enhances safety and reliability, providing continuous communication capabilities to ensure the well-being of passengers at all times</span></p>",
+                            "src": "images/configure/learn-more/safety/stationary-gsm"
+                        },
+                        {
+                            "title": "Safety",
+                            "subTitle": "EEM Ride Check ",
+                            "description": "<p><span class=\"ql-size-caption\">EEM Landing Door combines electric, electronic, and mechanical connections to ensure the highest level of safety and reliability. This comprehensive approach covers all potential failure points, both mechanical and electrical, to safeguard passengers at all times. With EEM Ride Check continuously monitoring the elevator's operation and the EEM Landing Door provides robust security, we ensure optimal performance and passenger safety in every ride.</span></p>",
+                            "src": "images/configure/learn-more/safety/eem-ride-check"
+                        },
+                        {
+                            "title": "Safety",
+                            "subTitle": "30 Minutes Auxiliary Cabin Power",
+                            "description": "<p><span class=\"ql-size-caption\">Our elevators feature a 30 Minutes Auxiliary Cabin Power system. In the event of a power outage, this ensures that the elevator remains operational for up to 30 minutes, providing passengers with ample time to reach their destination safely. This innovative feature includes an AUX Battery designed to power essential functions such as lighting, ventilation, emergency alarm, and communication systems. Serving as a backup for the main battery. With this comprehensive backup system in place, passengers are guaranteed a secure and comfortable environment inside the cabin, regardless of external circumstances</span></p>",
+                            "src": "images/configure/learn-more/safety/auxiliary-cabin-power"
+                        },
+                        {
+                            "title": "Safety",
+                            "subTitle": "Cabin Door",
+                            "description": "<p><span class=\"ql-size-caption\">Nibav elevators employs a combination of advanced sensors and mechanisms to ensure the secure operation of cabin doors at all times. From precise alignment to swift closing, every aspect of our Cabin Door Safety System is meticulously designed to prevent accidents and maintain passenger safety.</span></p>",
+                            "src": "images/configure/learn-more/safety/cabin-door"
+                        }
+                    ]
+                },
+                "delivery": {
+                    "type": "option",
+                    "options": [
+                        {
+                            "id": 1,
+                            "label": "Free Delivery - 4 Months",
+                            "value": "Standard Delivery",
+                            "price": "0"
+                        },
+                        {
+                            "id": 2,
+                            "label": "Fast Delivery - 3 Month",
+                            "value": "",
+                            "price": "40000"
+                        },
+                        {
+                            "id": 3,
+                            "label": "Rapid Delivery - 1 Month",
+                            "value": "",
+                            "price": "120000"
+                        }
+                    ]
+                }
+            },
+            "accessories": [
+                {
+                    "id": 1,
+                    "titleKey": "foldableSeat",
+                    "label": "Foldable seat",
+                    "value": "<p><span class=\"ql-size-caption\">Designed for comfort and practicality, this accessory provides passengers with the option to sit comfortably during their ride. Whether you're carrying heavy items or simply prefer to take a seat, our foldable design allow",
+                    "src": "images/configure/accessories/foldableSeat",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Foldable seat",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Designed for comfort and practicality, this accessory provides passengers with the option to sit comfortably during their ride. Whether you're carrying heavy items or simply prefer to take a seat, our foldable design allow",
+                            "src": "images/configure/accessories/learn-more/foldable-seat"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titleKey": "cabinHandle",
+                    "label": "Handle",
+                    "value": "<p><span class=\"ql-size-caption\">Crafted with durable materials and ergonomic design, this handle provides passengers with a secure grip during their elevator journey. Our innovative feature includes door handles painted to match the shaft color, seamless",
+                    "src": "images/configure/accessories/cabinHandle",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Handle",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Crafted with durable materials and ergonomic design, this handle provides passengers with a secure grip during their elevator journey. Our innovative feature includes door handles painted to match the shaft color, seamless",
+                            "src": "images/configure/accessories/learn-more/handle"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titleKey": "alexa",
+                    "label": "Alexa",
+                    "value": "<p><span class=\"ql-size-caption\">Transform your elevator experience with our Alexa Integration accessory. Seamlessly connect your elevator to the power of voice control, allowing you to effortlessly operate your lift with simple voice commands. Whether yo",
+                    "src": "images/configure/accessories/alexa",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Alexa",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Transform your elevator experience with our Alexa Integration accessory. Seamlessly connect your elevator to the power of voice control, allowing you to effortlessly operate your lift with simple voice commands. Whether yo",
+                            "src": "images/configure/accessories/learn-more/alexa"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "titleKey": "coverPlate",
+                    "label": "Cover Plate",
+                    "value": "<p><span class=\"ql-size-caption\">Designed to conceal and protect mechanical components, the Cover Plate adds a sleek and polished finish to your elevator's interior. Crafted with durable materials and customizable finishes, this accessory seamlessly integ",
+                    "src": "images/configure/accessories/coverPlate",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Cover Plate",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Designed to conceal and protect mechanical components, the Cover Plate adds a sleek and polished finish to your elevator's interior. Crafted with durable materials and customizable finishes, this accessory seamlessly integ",
+                            "src": "images/configure/accessories/learn-more/cover-plate"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "titleKey": "coverPlateRoof",
+                    "label": "Cover Plate Roof",
+                    "value": "<p><span class=\"ql-size-caption\">Situated at the top of the cabin, this cover plate adds a finishing touch to your elevator's interior, ensuring a sleek and polished appearance. Crafted with precision and attention to detail, our cover plates seamlessly c",
+                    "src": "images/configure/accessories/coverPlateRoof",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Cover Plate Roof",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Situated at the top of the cabin, this cover plate adds a finishing touch to your elevator's interior, ensuring a sleek and polished appearance. Crafted with precision and attention to detail, our cover plates seamlessly c",
+                            "src": "images/configure/accessories/learn-more/cover-plate-roof"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "titleKey": "supportBracket",
+                    "label": "Support Bracket",
+                    "value": "<p><span class=\"ql-size-caption\">Our Support Bracket provides additional support and stability, ensuring a smooth and secure ride for passengers. Crafted with durable materials and precision engineering, this accessory is installed discreetly to minimize ",
+                    "src": "images/configure/accessories/supportBracket",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Support Bracket",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Our Support Bracket provides additional support and stability, ensuring a smooth and secure ride for passengers. Crafted with durable materials and precision engineering, this accessory is installed discreetly to minimize ",
+                            "src": "images/configure/accessories/learn-more/support-bracket"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "titleKey": "earthquakeBracket",
+                    "label": "Earthquake Bracket",
+                    "value": "<p><span class=\"ql-size-caption\">In addition to the standard brackets, these specially designed accessories provide extra support to the lift, reinforcing the shaft during seismic events. Crafted with robust materials and precision engineering, our Earthq",
+                    "src": "images/configure/accessories/earthquakeBracket",
+                    "price": "0",
+                    "learnMore": [
+                        {
+                            "title": "Earthquake Bracket",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">In addition to the standard brackets, these specially designed accessories provide extra support to the lift, reinforcing the shaft during seismic events. Crafted with robust materials and precision engineering, our Earthq",
+                            "src": "images/configure/accessories/learn-more/earthquake-bracket"
+                        }
+                    ]
+                }
+            ],
+            "offers": [
+                {
+                    "title": "",
+                    "description": "Secure Your Nibav Elevator Today and receive a Complimentary Luxurious Foldable Chair!",
+                    "details": [
+                        {
+                            "title": "Foldable seat",
+                            "subTitle": null,
+                            "description": "<p><span class=\"ql-size-caption\">Designed for comfort and practicality, this accessory provides passengers with the option to sit comfortably during their ride. Whether you're carrying heavy items or simply prefer to take a seat, our foldable design allow",
+                            "src": "images/configure/accessories/learn-more/foldable-seat"
+                        }
+                    ]
+                },
+                {
+                    "title": "",
+                    "description": "Be First in Line: Register Now for an Exclusive Invite to the Nibav Series 4 Launch Event!",
+                    "details": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "shortUrl": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "type": {
+        "type": "string"
+      },
+      "url": {
+        "type": "string"
+      },
+      "priceFrom": {
+        "type": "string"
+      },
+      "emiFrom": {
+        "type": "string"
+      },
+      "noOfPeople": {
+        "type": "integer"
+      },
+      "payload": {
+        "type": "integer"
+      },
+      "externalSize": {
+        "type": "integer"
+      },
+      "rosValue": {
+        "type": "string"
+      },
+      "productTranslation": {
+        "type": "object",
+        "properties": {
+          "persons": {
+            "type": "string"
+          },
+          "payload": {
+            "type": "string"
+          },
+          "ros": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "persons",
+          "payload",
+          "ros"
+        ]
+      },
+      "commonTranslations": {
+        "type": "object"
+      }
+    },
+    "required": [
+      "shortUrl",
+      "name",
+      "type",
+      "url",
+      "priceFrom",
+      "emiFrom",
+      "noOfPeople",
+      "payload",
+      "externalSize",
+      "rosValue",
+      "productTranslation",
+      "commonTranslations"
+    ]
+  }
