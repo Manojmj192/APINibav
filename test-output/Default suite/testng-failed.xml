@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ResponseBodyValidation.ConfigBody">
+      <class name="CustomerLogin.Save_config">
         <methods>
-          <include name="loopcheck"/>
+          <include name="saveconfig"/>
         </methods>
-      </class> <!-- ResponseBodyValidation.ConfigBody -->
+      </class> <!-- CustomerLogin.Save_config -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
