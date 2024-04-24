@@ -41,7 +41,7 @@ public class Save_config {
 		
 		
 		given().contentType(ContentType.JSON).body(string)
-		.when().post("https://dev01.nibavlifts.com/api/v1/products/configurations/series-iii-classic")
+		.when().post("https://dev01.nibavlifts.com/api/v1/products/configurations/series-iii-classic");
 		
 		
 		
